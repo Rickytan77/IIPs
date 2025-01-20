@@ -18,6 +18,7 @@ Additionally, by reducing compensation for the IMC it aligns with decisions made
 
 ### Proposed Remuneration Structure Changes: 
 **Current Stipend:** USD 5,000 per month, paid in $ILV
+
 **Proposed Stipend:** USD 3,750 per month, paid in $ILV
 
 ### Implementation:
